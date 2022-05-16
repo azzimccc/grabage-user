@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2983294845",
+    "firebase_url": "https://grabagedb.firebaseio.com",
+    "project_id": "grabagedb",
+    "storage_bucket": "grabagedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2983294845:android:78158cc993c96d37197e14",
+        "android_client_info": {
+          "package_name": "com.fourier.grabage_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2983294845-j84ash9jcfut37ade7b0n8d97c21kqii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCef8mebJRR-1DUWM6ti0HpkDFX13Nt-_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2983294845-j84ash9jcfut37ade7b0n8d97c21kqii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
